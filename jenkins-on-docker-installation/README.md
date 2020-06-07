@@ -14,7 +14,7 @@ Some information about this bash script.
 
 ## 1.2. Deploy Jenkins on Docker Machine
 ```
-$ curl -O https://
+$ curl -O https://raw.githubusercontent.com/lukmanlab/bash-script/development/jenkins-on-docker-installation/script-deploy.sh
 $ chmod +x script-deploy.sh
 $ ./script-deploy.sh
 ```
